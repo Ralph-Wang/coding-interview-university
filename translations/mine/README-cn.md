@@ -1095,7 +1095,7 @@
     - [ ] 依赖注入:
         - [ ] [视频](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
         - [ ] [测试之道](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
-    - [ ] [如何编写测试](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
+    - [x] [如何编写测试](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
 
 - ### 调度
     - 在操作系统中是如何运作的
