@@ -1290,7 +1290,7 @@
 ## 附加的学习
 
 - ### Unicode
-    - [ ] [每一个软件开发者的绝对最低限度，必须要知道的关于 Unicode 和字符集知识]( http://www.joelonsoftware.com/articles/Unicode.html)
+    - [x] [每一个软件开发者的绝对最低限度，必须要知道的关于 Unicode 和字符集知识]( http://www.joelonsoftware.com/articles/Unicode.html)
     - [ ] [关于处理文本需要的编码和字符集, 每个程序员绝对需要知道的知识](http://kunststube.net/encoding/)
 
 - ### 字节顺序
