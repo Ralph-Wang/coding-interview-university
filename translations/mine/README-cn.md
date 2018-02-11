@@ -804,7 +804,7 @@
         - [ ] [课程 11 | 抽象编程 (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
     - 什么时候适合使用
     - 尾递归会更好么?
-        - [ ] [什么是尾递归以及为什么它如此糟糕?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
+        - [x] [什么是尾递归以及为什么它如此糟糕?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
         - [ ] [尾递归 (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
 
 - ### 动态规划（Dynamic Programming）
