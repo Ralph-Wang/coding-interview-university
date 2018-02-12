@@ -1323,16 +1323,16 @@
 
 - ### Unix 命令行工具
     - 下列内容中的优秀工具由的 Yegge 推荐，Yegge 目前致力于 Amazon 人事招聘处。
-    - [ ] bash
-    - [ ] cat
-    - [ ] grep
-    - [ ] sed
-    - [ ] awk
-    - [ ] curl or wget
-    - [ ] sort
-    - [ ] tr
-    - [ ] uniq
-    - [ ] [strace](https://en.wikipedia.org/wiki/Strace)
+    - [x] bash
+    - [x] cat
+    - [x] grep
+    - [x] sed
+    - [x] awk
+    - [x] curl or wget
+    - [x] sort
+    - [x] tr
+    - [x] uniq
+    - [x] [strace](https://en.wikipedia.org/wiki/Strace)
     - [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
 
 - ### 信息资源 (视频)
