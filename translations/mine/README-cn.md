@@ -1552,7 +1552,7 @@
 
 - ### Go 语言
     - [ ] 视频:
-        - [ ] [为什么学习 Go 语言？](https://www.youtube.com/watch?v=FTl0tl9BGdc)
+        - [x] [为什么学习 Go 语言？](https://www.youtube.com/watch?v=FTl0tl9BGdc)
         - [ ] [Go 语言编程](https://www.youtube.com/watch?v=CF9S4QZuV30)
         - [ ] [Go 语言之旅](https://www.youtube.com/watch?v=ytEkHepK08c)
     - [ ] 书籍:
